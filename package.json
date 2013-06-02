@@ -1,0 +1,16 @@
+{
+  "author": "Geert Pasteels <geert.pasteels@gmail.com>",
+  "name": "oar",
+  "version": "1.0.0",
+  "description": "Observable Array",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enome/oar"
+  },
+   "keywords": [
+    "observable",
+    "events",
+    "array"
+  ],
+  "license": "BSD"
+}
