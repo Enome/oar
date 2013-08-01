@@ -1,0 +1,6 @@
+{
+  "name": "oar",
+  "respository": "enome/oar",
+  "scripts": [ "index.js" ],
+  "main": "index.js"
+}

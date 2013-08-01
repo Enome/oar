@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script src='build/build.js'></script>
+    <script>
+      var oar = require('oar');
+      var a = oar();
+
+      a.on('push', function (result) {
+        console.log('push', result);
+      });
+
+      a.push('huh');
+    </script>
+  </body>
+</html>
